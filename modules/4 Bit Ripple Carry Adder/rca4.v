@@ -1,5 +1,5 @@
 // =============================================================================
-// MNE303 - Lab 3 | Part 1: 4-bit ripple-carry adder (structural style)
+// 4-bit ripple-carry adder (structural style)
 // Four full_adder instances chained through the carry vector c[4:0].
 // =============================================================================
 `timescale 1ns/1ps

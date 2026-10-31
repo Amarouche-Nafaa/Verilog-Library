@@ -1,5 +1,5 @@
 // =============================================================================
-// MNE303 - Lab 3 | Part 1: exhaustive self-checking testbench for rca4
+// exhaustive self-checking testbench for rca4
 // 2^9 = 512 input combinations (a, b, cin) are applied and every result is
 // compared with a golden model written with the '+' operator.
 // =============================================================================

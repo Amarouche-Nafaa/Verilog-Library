@@ -1,8 +1,10 @@
 // =============================================================================
-// MNE303 - Lab 3 | Part 1: 1-bit full adder (dataflow style)
 // DELAY models a gate propagation delay so that carry ripple and glitches
 // become visible in GTKWave. Synthesis tools IGNORE '#' delays.
 // =============================================================================
+
+
+
 `timescale 1ns/1ps
 `default_nettype none
 
