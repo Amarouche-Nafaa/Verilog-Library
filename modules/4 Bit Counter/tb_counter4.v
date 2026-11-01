@@ -1,5 +1,5 @@
 // =============================================================================
-// MNE303 - Lab 3 | Part 2: self-checking testbench for counter4
+//  self-checking testbench for counter4
 //   * clock generator + reset sequence
 //   * directed tests (wrap up, hold, load, wrap down, async reset)
 //   * constrained-random test, seed selectable with +seed=<n>
